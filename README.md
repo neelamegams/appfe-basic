@@ -10,3 +10,9 @@
 - https://developers.sap.com/tutorials/application-frontend-cli.html
 - https://developers.sap.com/tutorials/application-frontend-mta.html
 - https://developers.sap.com/group.build-deploy-ui5-cli-frontend-service.html
+
+
+### URLs
+BTP Cockpit: 
+https://account.hanatrial.ondemand.com/trial/#/home/trial
+
